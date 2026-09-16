@@ -247,3 +247,29 @@ Phishing-Website-Detector
 ├── frontend
 ├── backend
 └── ml
+
+## 🖼️ Project Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/main-screen.png)
+
+### Phishing Detection Result
+
+![Phishing Detection](screenshots/phishing-result.png)
+
+### Legitimate Website Result
+
+![Legitimate Website](screenshots/legitimate-result.png)## 🖼️ Project Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/main-screen.png)
+
+### Phishing Detection Result
+
+![Phishing Detection](screenshots/phishing-result.png)
+
+### Legitimate Website Result
+
+![Legitimate Website](screenshots/legitimate-result.png)
